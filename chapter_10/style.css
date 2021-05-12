@@ -76,21 +76,19 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-
-  
-  .main-content{
+  .main {
+    width: 100%;
+  }
+  .main-content {
     width: 90%;
     display: block;
-    
   }
 
-  .content-item2{
-    margin-top:20px;
-  }
-
-  .content-item3{
+  .content-item2 {
     margin-top: 20px;
   }
 
-  .
+  .content-item3 {
+    margin-top: 20px;
+  }
 }
